@@ -181,4 +181,8 @@ body{
     #title{
         text-align: center;
     }
+
+    .testimonial-text{
+        font-size: 2rem;
+    }
 }
